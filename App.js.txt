@@ -1,9 +1,0 @@
-import React from 'react';
-import PropertyDetails from './PropertyDetails.js'; 
-import 'boxicons/css/boxicons.min.css';
-
-function App() {
-  return <PropertyDetails />;
-}
-
-export default App;
