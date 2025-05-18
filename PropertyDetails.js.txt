@@ -362,6 +362,12 @@ const PropertyDetails = () => {
                     <option value="4">4 guests</option>
                   </select>
                 </div>
+                <div>
+                    
+                <label>Reservation period</label>
+                <input type="text" placeholder="4 Days" />
+                
+                </div>
                 <button type="submit">Book Now</button>
               </form>
 
